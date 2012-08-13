@@ -19,7 +19,7 @@ var surface = new Surface({
 
 ### Operations  
 
-In a near future, the Surface will be transformed using commands. Commands are either issues progammatically or triggered by the user (e.g. by entering text). Commands are either issues progammatically or triggered by the user (e.g. by entering text)
+In a near future, the Surface will be transformed using commands. Commands are either issued progammatically or triggered by the user (e.g. by entering text)
 
 An operation to updtate text incrementally would look like so:
 
